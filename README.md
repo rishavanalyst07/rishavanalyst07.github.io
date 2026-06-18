@@ -14,11 +14,11 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Pulse Engagement Survey Analysis  
-*This project is about creating a Power BI dashboard that shows feedback received from clients through a survey called Publicis Pulse
-Survey. The survey is sent twice a year to understand how happy clients are with Publicis agencies.*
+### Engagement Poll Analysis  
+*This project is about creating a Power BI dashboard that shows feedback received from clients through a Poll.
+The Poll is sent twice a year to understand how happy clients are with agencies.*
 
-### UK Media Billing Cycle Time
+### Entity Billing Cycle Time
 *The project aims to analyze how long it takes for billing to happen after a media campaign runs, and identify delays or inefficiencies in
 the process.*
 
