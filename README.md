@@ -18,8 +18,8 @@ This template is set up to showcase your best work. You can easily customize the
 *This project is about creating a Power BI dashboard that shows feedback received from clients through a Poll.
 The Poll is sent twice a year to understand how happy clients are with agencies.*
 
-### Entity Billing Cycle Time
-*The project aims to analyze how long it takes for billing to happen after a media campaign runs, and identify delays or inefficiencies in
+### Operations Invoice Period
+*The project aims to analyze how long it takes for invoicing to happen after a advertisement runs, and identify delays or inefficiencies in
 the process.*
 
 ### Offline Sales Analysis
