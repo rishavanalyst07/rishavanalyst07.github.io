@@ -26,10 +26,9 @@ Strong collaborator with a track record of delivering dashboards, reports, and a
       
 ## 🔭 Projects 
 
-- ** Poll Engagement Dashboard:** This project is about creating a Power BI dashboard that shows feedback received from clients through a Poll called  
-Poll Engagement Analysis. The Poll is sent twice a year to understand how happy clients are with  agencies.  
+- **Client Satisfaction Analytics Dashboard:** This project is about creating a Power BI dashboard that shows feedback received from clients through a Feedback form to check how clients are happy with the servies provided.
 
-- ** Operations Invoicing Period Time:** The project aims to analyze how long it takes for Invoicing to happen after a Operations execution runs, and identify delays or inefficiencies in the process.
+- **Invoicing Period Analysis Dashboard:** The project aims to analyze how long it takes for Invoicing to happen after a Operations execution runs, and identify delays or inefficiencies in the process.
 
 - **Kraasa e-commerce logistics:** Developed a Power BI dashboard to monitor Kraasa logistics KPIs including TAT, SLA, deliveries, and RTO. Provided clear order
 lifePeriod tracking across each stage and highlighted operational delays. Empowered business teams with real-time insights to reduce
