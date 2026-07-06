@@ -52,8 +52,7 @@ visibility, forecasting accuracy, distributor performance tracking, and inventor
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Python-Numpy-Pandas-Matplotlib-Seaborn-4479A1?style=flat&logo=mysql&logoColor=white" alt="Python Skill Badge">
-
+<img src="https://img.shields.io/badge/Python-NumPy%20%7C%20Pandas%20%7C%20Matplotlib%20%7C%20Seaborn-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
 </p>
 
 
