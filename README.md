@@ -18,7 +18,6 @@ code - GitHub profile
 ## 🚀 About Me Business Intelligence Analyst with 3 years of hands-on experience in transforming raw data into actionable insights. 
 
 Passionate about using data to solve business problems, improve processes, and support strategic decision-making. 
-
 Strong collaborator with a track record of delivering dashboards, reports, and analyses that enhance business performance.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
