@@ -26,7 +26,7 @@ Strong collaborator with a track record of delivering dashboards, reports, and a
       
 ## 🔭 Projects 
 
-- **Client Satisfaction Analytics Dashboard:** This project is about creating a Power BI dashboard that shows feedback received from clients through a Feedback form to check how clients are happy with the servies provided.
+- **Client Satisfaction Analytics Dashboard:** This project is about creating a Power BI dashboard that shows feedback received from clients through a Feedback form to check how clients are happy with the services provided.
 
 - **Invoicing Period Analysis Dashboard:** The project aims to analyze how long it takes for Invoicing to happen after a Operations execution runs, and identify delays or inefficiencies in the process.
 
