@@ -1,6 +1,3 @@
-code - GitHub profile 
-
-
 ## Hi there, I'm Rishav Gusain 👋
 
 <div align="center">
