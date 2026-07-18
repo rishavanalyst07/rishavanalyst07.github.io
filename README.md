@@ -1,9 +1,28 @@
 ## Hi there, I'm Rishav Gusain 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishav-gusain-70397021b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:rishavanalyst07@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/rishav-gusain-70397021b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:rishavanalyst07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+<a href="https://wa.me/919653263838" target="_blank">
+  <img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+  <a href="https://rishavanalyst07.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
+
+  <a href="https://drive.google.com/file/d/1JSTjpppIqEpPuN1VfxxK2HJ-wN-hxNug/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+  </a>
 </p>
+
+
 
 ## 🚀 About Me Business Intelligence Analyst with 3 years of hands-on experience in transforming raw data into actionable insights. 
 
