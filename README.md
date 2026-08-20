@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white">
   </a>
 
-  <a href="https://drive.google.com/file/d/1JSTjpppIqEpPuN1VfxxK2HJ-wN-hxNug/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1kbQ4hWtelabBCrdbL3sz4OAPeQIkZYf3/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
   </a>
 </p>
